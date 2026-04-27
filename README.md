@@ -25,8 +25,8 @@ Engineered a programmatic Python ingestion script (`scripts/01_load_mysql.py`) a
 * **Payment Complexity:** Segmented single vs. split-payment behaviors to identify friction points in high-value checkout flows.
 
 ## 📸 Dashboard Gallery
-*
+
 <img width="1299" height="735" alt="dashboard_page_3" src="https://github.com/user-attachments/assets/61795dd6-283c-4aad-a423-014a263a3b63" />
 <img width="1304" height="732" alt="dashboard_page_2" src="https://github.com/user-attachments/assets/3c5b3689-816f-4271-9ff6-89cc55c015a0" />
 <img width="1296" height="734" alt="dashboard_page_1" src="https://github.com/user-attachments/assets/831c1fca-afb4-401d-a7b9-bf14d2d25a51" />
-*
+
